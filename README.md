@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind, Angular and JavaScript using TheOdinProject**
 
-- 👨‍💻 All of my projects are available at [https://ohmpatel-portfolio-e678f32fa220.herokuapp.com/](https://ohmpatel-portfolio-e678f32fa220.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://ohmpatel.live](http://ohmpatel.live)
 
 - 📫 How to reach me **ohmpbusiness@gmail.com**
 
