@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Banter Box](https://github.com/ohmpatell/BanterBox)
 
-- 🌱 I’m currently learning **React, Tailwind, Angular and JavaScript using TheOdinProject**
+- 🌱 I’m currently learning **Tailwind and Angular**
 
 - 👨‍💻 All of my projects are available at [http://ohmpatel.live](http://ohmpatel.live)
 
