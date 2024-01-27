@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ohmpatell" target="blank"><img src="https://img.shields.io/twitter/follow/ohmpatell?logo=twitter&style=for-the-badge" alt="ohmpatell" /></a> </p>
 
-- 🔭 I’m currently working on [Banter Box](https://github.com/ohmpatell/BanterBox)
+- 🏢 I currently work at [AirIQ Inc.](https://airiq.com/) as a Developer.
 
 - 🌱 I’m currently learning **ASP.NET and Angular**
 
-- 👨‍💻 All of my projects are available at [http://ohmpatel.live](http://ohmpatel.live)
+- 👨‍💻 All of my projects are available at [https://ohmpatel.live](https://ohmpatel.live)
 
 - 📫 How to reach me **ohmpbusiness@gmail.com**
 
