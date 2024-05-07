@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ohm Patel</h1>
+<h1 align="center"
+>Hi 👋, I'm Ohm Patel</h1>
 <h3 align="center">A passionate software developer from Toronto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmpatell&label=Profile%20views&color=0e75b6&style=flat" alt="ohmpatell" /> </p>
@@ -11,7 +12,7 @@
 
 - 🌱 I’m currently learning **ASP.NET and Angular**
 
-- 👨‍💻 All of my projects are available at [https://ohmpatel.live](https://ohmpatel.live)
+- 👨‍💻 All of my projects are available at [https://www.ohmpatel.live](https://www.ohmpatel.live)
 
 - 📫 How to reach me **ohmpbusiness@gmail.com**
 
