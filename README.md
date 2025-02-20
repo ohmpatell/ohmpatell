@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ohmpatell" target="blank"><img src="https://img.shields.io/twitter/follow/ohmpatell?logo=twitter&style=for-the-badge" alt="ohmpatell" /></a> </p>
 
-- 🏢 I currently work on **PlanLikeAnnie - a mobile task managing app**.
+- 🏢 I currently work at **AirIQ Inc.** as a software developer.
 
 - 🌱 I’m currently learning **React Native**
 
